@@ -1,7 +1,8 @@
 # Autonomous Colour Sorting Machine
 
-> **Capstone Research Project â€” B.Eng. Computer Engineering**  
-> Bayero University, Kano Â· 2019â€“2020
+> **Capstone Research Project
+> B.Eng. Computer Engineering**  
+> Bayero University, Kano  2019-2020
 
 An embedded real-time system that autonomously detects, classifies, and physically sorts coloured objects using a TCS3200 RGB colour sensor and a servo-motor actuator network â€” all controlled by a finite state machine implemented in C/C++ on an Arduino microcontroller.
 
@@ -62,7 +63,7 @@ Object detected â†’ Sensor reads RGB values â†’ FSM classifies colour
 | Servo motor | SG90 / MG995 | 1 | Mechanical sorting actuator |
 | Conveyor/chute | Custom-built | 1 | Object delivery mechanism |
 | Power supply | 5V DC | 1 | System power |
-| Connecting wires | Jumper wires | â€” | Circuit interconnections |
+| Connecting wires | Jumper wires | 24 | Circuit interconnections |
 | Breadboard | Full-size | 1 | Prototyping |
 
 ---
